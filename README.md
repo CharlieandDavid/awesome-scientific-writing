@@ -6,9 +6,9 @@
 > [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html) and
 > [Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/).
 
-:star - means **really _awesome/useful_**.<br />
-:bookmark - means ability to **seamlessly cite references**.<br/>
-:link - means ability to **cross-reference figures and sections within the
+:star: - means **really _awesome/useful_**.<br />
+:bookmark: - means ability to **seamlessly cite references**.<br/>
+:link: - means ability to **cross-reference figures and sections within the
 document**.<br/>
 **Σ** means ability to **write equations in LaTeX**.<br/>
 
@@ -36,7 +36,7 @@ document**.<br/>
  [academicmarkdown](https://github.com/smathot/academicmarkdown#readme) - A
    Python wrapper over Pandoc with specialized extensions to parse certain
    elements, making it a superset of Pandoc markdown flavour :bookmark:
-   :link - **Σ**.
+   :link: - **Σ**.
  [bookbook](https://github.com/takluyver/bookbook/#readme) - An experimental Python
    package which extends `nbconvert` and adds the ability to cross reference
    within and across notebooks :link: **Σ**.
